@@ -1,6 +1,12 @@
 lets start cmd
 <<<<<<< HEAD
+<<<<<<< HEAD
 master change
 =======
 change in dep
 >>>>>>> dep
+=======
+change in dep
+master change
+
+>>>>>>> bh1
